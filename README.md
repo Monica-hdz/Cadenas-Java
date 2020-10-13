@@ -8,6 +8,6 @@
 
 ## Datos generales
 
-Nombre: Monica Hernandez Gonzalez
-Correo: al058772@uacam.mx
-Universidad: Universidad Autonoma de Campeche Facultad de ingenieria
+- Nombre: Monica Hernandez Gonzalez
+- Correo: al058772@uacam.mx
+- Universidad: Universidad Autonoma de Campeche Facultad de ingenieria
